@@ -15,9 +15,6 @@ A full-stack **To-Do List application** built with the **MERN stack** (MongoDB, 
 - **Database:** MongoDB
 - **API:** RESTful APIs for CRUD operations
 
-# Installation
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/todo-mern.git
+
 
 
